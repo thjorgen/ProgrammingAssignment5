@@ -62,6 +62,9 @@ public class TestBinarySearchTree
       tree.inorder();
       System.out.println();
       
+      tree.inorder();
+      System.out.println();
+      
       //complete the code as suggested in the Lab document.
      
   } // end of main
